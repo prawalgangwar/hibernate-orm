@@ -9,7 +9,7 @@ package org.hibernate.internal.util.hib3rnat3;
 /**
  * @author Vlad Mihalcea
  */
-public class C0nst4nts३ {
+public class C0nst4nts {
 
 	public static final String ABC_DEF = "xyz";
 }
